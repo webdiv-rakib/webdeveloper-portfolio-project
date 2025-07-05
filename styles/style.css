@@ -8,6 +8,8 @@
 body {
     font-family: "Work Sans", sans-serif;
 }
+
+/* Nav-bar Section design */
 .nav-head{
     padding-top: 51px;
     height: 837px;
@@ -45,3 +47,5 @@ body {
     font-weight: 700;
     color: white;
 }
+
+/* Hero Section Design */
