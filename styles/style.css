@@ -60,6 +60,7 @@ body {
 
 .dev-details {
     width: 585px;
+    border: 2px solid;
 }
 
 .banner-section {
@@ -67,9 +68,25 @@ body {
     justify-content: center;
     align-items: center;
     gap: 163px;
+    border: 2px solid;
 }
 
 .banner-2 {
     display: flex;
     gap: 71px;
+}
+.banner-title{
+    font-size: 45px;
+    font-weight: 600;
+    color: #474747;
+    
+}
+.name{
+    font-size: 85px;
+    font-weight: 700;
+}
+.about-me{
+    font-size: 18px;
+    font-weight: 400;
+    color: #757575;
 }
