@@ -8,3 +8,32 @@
 body {
     font-family: "Work Sans", sans-serif;
 }
+
+#nav-section {
+    background-color: #FFF8F3;
+}
+
+.nav-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 226px;
+    margin-right: 230px;
+}
+
+.option {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 51px;
+}
+
+.mary {
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.r {
+    color: #FD6E0A;
+}
