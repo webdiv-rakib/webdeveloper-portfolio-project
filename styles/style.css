@@ -7,6 +7,7 @@
 
 body {
     font-family: "Work Sans", sans-serif;
+    /* width: 1600px; */
 }
 
 #nav-section {
@@ -58,7 +59,8 @@ body {
     align-items: center;
     background-image: url("../assets/images/developer.png"), url("../assets/images/header_bg.png");
     background-repeat: no-repeat;
-    background-position: left top,right bottom;
+    background-position: left top, right bottom;
+    gap: 163px;
 }
 
 .banner-first {
@@ -80,6 +82,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     color: #757575;
+    margin-top: 20px;
 }
 
 .btn-download {
@@ -90,6 +93,7 @@ body {
     font-size: 20px;
     font-weight: 700;
     color: white;
+    margin-top: 30px;
 }
 
 .btn-contact {
