@@ -248,3 +248,19 @@ body {
     margin-top: 20px;
     margin-bottom: 30px;
 }
+
+.down-2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 113px;
+}
+
+.btn-download-2 {
+    padding: 19px 17px;
+    background-color: #FD6E0A;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
