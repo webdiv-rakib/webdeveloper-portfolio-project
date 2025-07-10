@@ -198,5 +198,29 @@ body {
     align-items: center;
     gap: 24px;
     margin-top: 50px;
+}
 
+/* Resume section design */
+#resume-section {
+    margin-top: 130px;
+}
+
+.resume {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 71px;
+}
+.education{
+    font-size: 30px;
+    font-weight: 700;
+}
+.qualifications {
+    width: 511px;
 }
