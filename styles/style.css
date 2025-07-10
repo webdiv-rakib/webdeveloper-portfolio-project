@@ -173,8 +173,9 @@ body {
     width: 267px;
     padding: 30px;
     /* box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.06); */
-    border: 1px solid;
     height: 377px;
+    border-radius: 8px;
+    box-shadow: 0px 6px 50px 0px #f7f7f7;
 }
 
 .skill-title {
@@ -197,4 +198,5 @@ body {
     align-items: center;
     gap: 24px;
     margin-top: 50px;
+
 }
