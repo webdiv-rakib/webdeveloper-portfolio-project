@@ -216,11 +216,35 @@ body {
     justify-content: center;
     align-items: center;
     gap: 71px;
+    margin-top: 113px;
 }
-.education{
+
+.education {
     font-size: 30px;
     font-weight: 700;
+    color: #474747;
 }
+
 .qualifications {
     width: 511px;
+}
+
+.degree {
+    font-size: 25px;
+    font-weight: 700;
+    color: #474747;
+    margin-top: 30px;
+}
+
+.location {
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-top: 10px;
+}
+
+.ex-des {
+    color: #757575;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
