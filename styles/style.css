@@ -104,4 +104,49 @@ body {
     font-weight: 700;
     color: #FD6E0A;
 }
+
 /* Contact section design */
+#contact-section {
+    margin-top: 130px;
+}
+
+.contact-area {
+    width: 827px;
+    margin: 0 auto;
+    background-color: #FFF8F3;
+    padding: 130px;
+}
+
+.contact-details {
+    text-align: center;
+}
+
+.contact-title {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.contact-des {
+    font-size: 18px;
+    font-weight: 400;
+    color: #757575;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    text-align: center;
+}
+
+.info-title {
+    font-size: 20px;
+    font-weight: 400;
+    color: #757575;
+}
+.information{
+    font-size: 20px;
+    font-weight: 700;
+    color: #474747;
+}
