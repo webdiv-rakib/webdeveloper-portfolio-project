@@ -272,4 +272,56 @@ footer {
 
 .footer-section {
     padding-top: 130px;
+    display: flex;
+    justify-content: center;
+    gap: 117px;
+}
+
+.connect {
+    width: 562px;
+}
+
+.connect-des {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #474747;
+}
+
+#y-name {
+    margin-top: 28px;
+    width: 461px;
+    padding: 18px 30px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+}
+
+#email {
+    margin-top: 24px;
+    width: 461px;
+    padding: 18px 30px;
+    margin-bottom: 24px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+}
+
+textarea {
+    width: 461px;
+    padding: 18px 30px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+}
+
+.submit-1 {
+    padding: 18px 39px;
+    border: none;
+    background-color: #FD6E0A;
+    border-radius: 8px;
+    margin-top: 24px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 150px;
 }
